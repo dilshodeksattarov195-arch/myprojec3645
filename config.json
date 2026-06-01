@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvave",
+        "uuid": 33883920,
+        "checksum": "ae2s7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
